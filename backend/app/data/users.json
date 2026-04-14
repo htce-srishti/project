@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Anand",
+        "email": "anand123@gmail.com",
+        "password": "anand123",
+        "image": "https://res.cloudinary.com/dm0yegr5g/image/upload/v1776164507/abal3fpuf26mftfply5m.png"
+    },
+    {
+        "name": "aman",
+        "email": "aman123@gmail.com",
+        "password": "aman123",
+        "image": "https://res.cloudinary.com/dm0yegr5g/image/upload/v1776164887/lecclp7ubmpdj7l3cbnp.png"
+    }
+]
